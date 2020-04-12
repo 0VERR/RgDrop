@@ -1,0 +1,6 @@
+main: pl.overr.drop.DropPlugin
+version: 0.1
+author: 0VERR
+name: RgDrop
+commands:
+  drop:

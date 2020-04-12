@@ -1,0 +1,13 @@
+MySQL:
+  username: 'test'
+  password: 'test'
+  host: 'test'
+  port: 3306
+  database: 'test'
+Drop:
+  diamenty:
+    nameInGui: '&cDiamenciki'
+    material: DIAMOND
+    durability: 0
+    chance: 10.0
+    message: 'Gratulacje dropnales diamenty jestes KOZAKIEM'
